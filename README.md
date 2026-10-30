@@ -9,7 +9,7 @@
 
 ---
 
-> **品牌与历史数据说明：** 页面展示品牌已调整为 WINDEK。`data/demo-data.js` 中的 `window.COOWIN_DATA`、原始 `coowingroup.com` 链接、历史文章记录均予以保留。`assets/app.js` 内的 `coowin-seo-workbench` 备份格式、LocalStorage 键及历史兼容逻辑也不修改，以免破坏已有数据的读取与导入。当前示例 URL 不代表 WINDEK 站点页面，正式使用前须另行导入 WINDEK 的真实数据。
+> **品牌与历史数据说明：** 页面展示品牌已调整为 WINDEK。`data/demo-data.js` 中的 `window.COOWIN_DATA`、原始 `mysite.com` 链接、历史文章记录均予以保留。`assets/app.js` 内的 `coowin-seo-workbench` 备份格式、LocalStorage 键及历史兼容逻辑也不修改，以免破坏已有数据的读取与导入。当前示例 URL 不代表 WINDEK 站点页面，正式使用前须另行导入 WINDEK 的真实数据。
 
 ## 一、项目定位
 
