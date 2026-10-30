@@ -4,12 +4,12 @@
 
 **当前版本：v0.2.0 · 可编辑演示版**  
 **项目阶段：工作流验证 / 数据模型打磨，尚非生产级系统**  
-**当前示例站点：COOWIN**  
+**当前展示品牌：WINDEK**（演示数据沿用 COOWIN 站点历史来源）  
 **技术栈：HTML + CSS + Vanilla JavaScript；无需框架、后端或数据库**
 
 ---
 
-## 一、项目定位
+> **品牌与历史数据说明：** 页面展示品牌已调整为 WINDEK。`data/demo-data.js` 中的 `window.COOWIN_DATA`、原始 `coowingroup.com` 链接、历史文章记录均予以保留。`assets/app.js` 内的 `coowin-seo-workbench` 备份格式、LocalStorage 键及历史兼容逻辑也不修改，以免破坏已有数据的读取与导入。当前示例 URL 不代表 WINDEK 站点页面，正式使用前须另行导入 WINDEK 的真实数据。\n\n## 一、项目定位
 
 SEO Content Studio 不尝试替代 SEMrush、WordPress 或 AI 写作工具，也不把 SEO 决策自动化。
 
@@ -260,4 +260,4 @@ seo-content-studio/
 
 ---
 
-本仓库当前为 COOWIN 的内部研究与规划原型。数据仅作演示与人工辅助决策，不构成经核验的实时 SEO 建议。
+本仓库当前以 WINDEK 品牌展示 SEO 内容规划界面，沿用 COOWIN 历史 SEO 演示数据。数据仅作演示与人工辅助决策，不构成经核验的实时 SEO 建议。
